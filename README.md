@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmadmustafaanis)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hasnain3142)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 I am Hasnain Ali Arain, a Machine Learning and Computer Vision Engineer.
@@ -7,7 +7,7 @@ I am Hasnain Ali Arain, a Machine Learning and Computer Vision Engineer.
 - 🌱 I’m currently learning **Natural Language Processing**.
 - 👯 I’m looking to collaborate on **Computer Vision Research**
 - 📫 How to reach me: Connect with me on LinkedIn at [here](https://www.linkedin.com/in/hasnain3142/) 
-- Portfolio: [Ahmad Mustafa Anis](https://hasnain3142.github.io)
+- Portfolio: [Hasnain Ali Arain](https://hasnain3142.github.io)
 
 <!--
 **hasnain3142/hasnain3142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
