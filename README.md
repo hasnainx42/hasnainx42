@@ -1,4 +1,4 @@
-![image](https://github.com/hasnain3142/hasnain3142/assets/55703712/9693fc2f-c3fd-4d9e-963a-7ae0fba8f2ee)<h1 align="center"> Hi there, I'm <a href="https://hasnain3142.github.io/" target="blank">Hasnain Ali</a>  👋</h1> 
+<h1 align="center"> Hi there, I'm <a href="https://hasnain3142.github.io/" target="blank">Hasnain Ali</a>  👋</h1> 
 <p align="center"> A Machine Learning and Computer Vision Engineer. </p>
 <br>
 
