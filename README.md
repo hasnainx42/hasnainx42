@@ -1,12 +1,16 @@
 <h1 align="center"> Hi there, I'm <a href="https://hasnain3142.github.io/" target="blank">Hasnain Ali</a>  👋</h1> 
-<p align="center"> A Machine Learning and Computer Vision Engineer. </p>
+<p align="center"> A Machine Learning Engineer. </p>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain3142&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain-ali" /> </p>
 
-- 🔭 I’m currently working on **Python** , **Machine Learning**, **PyTorch**, **Object Detection**, **Object Segmentation**, and other **Computer Vision** related tasks.
-- 🌱 I’m currently learning **Natural Language Processing**.
-- 👯 I’m looking to collaborate on **Computer Vision Research**
+- 🔭 I’m currently focused on Python, Machine Learning, PyTorch, Object Detection, Object Segmentation, and other Computer Vision tasks.
+- 🌱 I’m actively expanding my expertise in Natural Language Processing and exploring its applications.
+- 🌐 I’m delving into the latest trends in Deep Learning and Generative AI.
+- 🚀 I have experience in developing full-stack apps, creating APIs and integrating AI models with technologies such as Flask, FastAPI, Django, React, Docker, and Kubernetes.
+- 💡 I’m passionate about applying AI solutions to real-world problems and driving impactful change through technology.
+- 👯 I’m open to collaborating on Machine Learning, Computer Vision, and AI research projects.
+- 📫 How to reach me: hasnain.ai3142@gmail.com
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
