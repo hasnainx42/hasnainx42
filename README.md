@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain3142&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain-ali" /> </p>
 
-- 🔭 I’m currently focused on Python, Machine Learning, PyTorch, Object Detection, Object Segmentation, and other Computer Vision tasks.
+- 🔭 I’m currently engaged in Python, Machine Learning, AI, Computer Vision, and Object Detection tasks. My recent work involves creating backend solutions with Django, building multi-action agents using Langchain, and applying YOLO models for advanced object detection and tracking.
 - 🌱 I’m actively expanding my expertise in Natural Language Processing and exploring its applications.
 - 🌐 I’m delving into the latest trends in Deep Learning and Generative AI.
 - 🚀 I have experience in developing full-stack apps, creating APIs and integrating AI models with technologies such as Flask, FastAPI, Django, React, Docker, and Kubernetes.
