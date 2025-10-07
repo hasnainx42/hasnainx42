@@ -10,13 +10,13 @@
 - 🚀 I have experience in developing full-stack apps, creating APIs and integrating AI models with technologies such as Flask, FastAPI, Django, React, Docker, and Kubernetes.
 - 💡 I’m passionate about applying AI solutions to real-world problems and driving impactful change through technology.
 - 👯 I’m open to collaborating on Machine Learning, Computer Vision, and AI research projects.
-- 📫 How to reach me: hasnain.ai3142@gmail.com
+- 📫 How to reach me: hasnain.x42@gmail.com
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
   <a href="https://hasnain3142.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Personal Blog"/></a>
-	<a href="mailto:hasnain.ai3142@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:hasnain.x42@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/hasnain3142"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/hasnain3142/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
