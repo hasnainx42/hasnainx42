@@ -1,37 +1,38 @@
-<h1 align="center"> Hi there, I'm <a href="https://hasnainx42.github.io/" target="blank">Hasnain Ali</a>  👋</h1> 
-<p align="center"> A Machine Learning Engineer. </p>
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain3142&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain-ali" /> </p>
-
-- 🔭 I’m currently engaged in Python, Machine Learning, AI, Computer Vision, and Object Detection tasks. My recent work involves creating backend solutions with Django, building multi-action agents using Langchain, and applying YOLO models for advanced object detection and tracking.
-- 🌱 I’m actively expanding my expertise in Natural Language Processing and exploring its applications.
-- 🌐 I’m delving into the latest trends in Deep Learning and Generative AI.
-- 🚀 I have experience in developing full-stack apps, creating APIs and integrating AI models with technologies such as Flask, FastAPI, Django, React, Docker, and Kubernetes.
-- 💡 I’m passionate about applying AI solutions to real-world problems and driving impactful change through technology.
-- 👯 I’m open to collaborating on Machine Learning, Computer Vision, and AI research projects.
-- 📫 How to reach me: hasnain.x42@gmail.com
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
+<h1 align="center">Hasnain Ali</h1>
+<p align="center"><b>AI Systems Architect</b> — LLM Inference & Agent Infrastructure</p>
 <p align="center">
-  <a href="https://hasnainx42.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Personal Blog"/></a>
-	<a href="mailto:hasnain.x42@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/hasnainx42"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/hasnainx42/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://hasnainx42.github.io/">website</a> ·
+  <a href="https://www.linkedin.com/in/hasnainx42/">linkedin</a> ·
+  <a href="mailto:hasnain.x42@gmail.com">email</a> ·
 </p>
 
-<!--
-**hasnain3142/hasnain3142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+CS PhD student at **UCF**, working on **fault-tolerant LLM serving** — specifically, how to keep prefill–decode disaggregated inference clusters alive when GPUs die mid-request without losing KV cache or session state.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work the seam between research and infra — designing systems that frontier models actually run on, and the agent layers that sit on top of them.
+
+### What I think about
+
+- **LLM inference at scale** — disaggregated serving, KV-cache management, speculative decoding, the cost-vs-latency tradeoff space.
+- **Fault tolerance for AI systems** — how do you build inference clusters that degrade gracefully under GPU, network, and traffic failures?
+- **Agent orchestration** — multi-agent planning, inference-aware routing across local and frontier models, tool use, MCP.
+- **The boundary between research and production** — papers are easy to write, hard to deploy; most of my interest lives in the gap.
+
+### Tools I actually use
+
+**Inference & serving** · vLLM · SGLang · TensorRT-LLM · Triton Inference Server · CUDA · paged attention · speculative decoding · KV-cache management · AWQ/GPTQ/FP8 quantization
+
+**Distributed systems** · NCCL · RDMA · NVLink · FSDP · DeepSpeed · Ray · Slurm
+
+**Agents & LLM** · PyTorch · Hugging Face Transformers · LangGraph · LlamaIndex · MCP (Model Context Protocol) · Anthropic API · OpenAI API · RAG
+
+**Platform & MLOps** · Kubernetes · Docker · AWS (SageMaker, Bedrock, Lambda) · GCP (Vertex AI) · Prometheus · Grafana · OpenTelemetry · MLflow · GitHub Actions CI/CD
+
+**Languages** · Python · C++ · Rust · CUDA · SQL · Bash
+
+### Reach out
+
+Working on inference infrastructure, agent systems, or anything at the boundary between research and production AI? I'd love to talk.
+
+📫 **hasnain.x42@gmail.com**
