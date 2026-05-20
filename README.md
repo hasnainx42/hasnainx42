@@ -1,5 +1,5 @@
 <h1 align="center">Hasnain Ali</h1>
-<p align="center"><b>AI Systems Architect</b> — LLM Inference & Agent Infrastructure</p>
+<p align="center"><b>AI/ML Systems Engineer</b> — LLM Inference & Agent Infrastructure</p>
 <p align="center">
   <a href="https://hasnainx42.github.io/">website</a> ·
   <a href="https://www.linkedin.com/in/hasnainx42/">linkedin</a> ·
