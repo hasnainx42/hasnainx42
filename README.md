@@ -8,16 +8,13 @@
 
 ---
 
-CS PhD student at **UCF**, working on **fault-tolerant LLM serving** — specifically, how to keep prefill–decode disaggregated inference clusters alive when GPUs die mid-request without losing KV cache or session state.
+I’m currently pursuing a PhD in Computer Science where my work focuses on ML Systems and Performance Optimization.
 
-I work the seam between research and infra — designing systems that frontier models actually run on, and the agent layers that sit on top of them.
+My research interests are centered around making modern AI systems faster, more efficient, and easier to scale. I’m especially interested in LLM serving, distributed inference, GPU performance, prefill/decode disaggregation, KV-cache optimization, speculative decoding, batching and scheduling, model parallelism, and high-performance AI infrastructure.
 
-### What I think about
+Before starting my PhD, I worked as a Machine Learning Engineer, where I became interested in what happens beyond model training: how AI models are actually served, optimized, and deployed in real-world systems.
 
-- **LLM inference at scale** — disaggregated serving, KV-cache management, speculative decoding, the cost-vs-latency tradeoff space.
-- **Fault tolerance for AI systems** — how do you build inference clusters that degrade gracefully under GPU, network, and traffic failures?
-- **Agent orchestration** — multi-agent planning, inference-aware routing across local and frontier models, tool use, MCP.
-- **The boundary between research and production** — papers are easy to write, hard to deploy; most of my interest lives in the gap.
+Right now, I’m exploring the systems challenges behind large language model inference, from reducing latency and improving throughput to designing better serving architectures for the next generation of AI applications.
 
 ### Tools I actually use
 
